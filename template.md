@@ -2,6 +2,7 @@
 title: "Example"
 author: "Chaim Burstein"
 date: "YYYY-MM-DD"
+description: "this is my description"
 ---
 # Heading
 ## Subheading
