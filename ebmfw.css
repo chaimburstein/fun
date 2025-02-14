@@ -1,6 +1,6 @@
 /* css for my website */
 html {
-    font-size: 100%;  /* Ensures the default font size is respected */
+    font-size: 100%;  
 }
 
 body {margin: 5% auto;  
@@ -14,13 +14,13 @@ body {margin: 5% auto;
 pre, code {
     background-color: lightgrey;
     padding: 0.25rem5 0.5rem;
-    border-radius: 0.25rem; /* Rounded corners */
-    font-family: monospace; /* Monospaced font */
+    border-radius: 0.25rem; 
+    font-family: monospace; 
     font-size: 1rem;
   }
              
 a {
-    /*border-bottom: 1px solid black;*/ color: black; text-decoration: underline;}
+    color: black; text-decoration: underline;}
             
 a:hover {border-bottom: 0;}
-    */
+    

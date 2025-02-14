@@ -1,8 +1,9 @@
 ---
-title: "Example"
+title: "Example One"
 author: "Chaim Burstein"
 date: "YYYY-MM-DD"
 description: "this is my description"
+link: "hopethisworks.html"
 ---
 # Heading
 ## Subheading
@@ -21,5 +22,6 @@ Another Paragraph
 #hastag?
 
 let's see if this worked!
+--- 
 
 
